@@ -1,0 +1,63 @@
+body
+{
+   background-color: rgb(218, 229, 14);
+}
+
+h1
+{
+    color : maroon;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h4
+{
+    color : maroon;
+}
+#start_button
+{
+    background-color:lime;
+    color : maroon;
+    height : 70px;
+    width : 120px;
+    font-size: x-large;
+    border-style: double;
+    border-color: maroon;
+}
+img
+{
+    width : 25%;
+    height : 30%;
+    border-radius: 20px;
+    padding : 5px;
+    box-shadow: 5px 5px maroon;
+}
+img:hover
+{
+    width : 45%;
+    height : 50%; 
+}
+#camera
+{
+    width : 400px;
+    height : 400px;
+    border-color: lime;
+    border-style: ridge;
+    border-width: 5px;
+}
+.column
+{
+    display:inline;
+    padding : 30px;
+}
+footer
+{
+    text-align: center;
+    background-color: maroon;
+    color : yellow;
+    position : fixed;
+    bottom : 0;
+    width : 100%;
+    font-family:'Georgia';
+    font-style: italic;
+    font-size:medium;
+}
